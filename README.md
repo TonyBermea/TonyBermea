@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **Hello@tonybermea.dev**
 
-- ⚡ Fun fact: **I was today's years old when I learned that Moonbows exist.**
+- ⚡ Fun fact: **Once an employer asked me if he could call me "Ton" for no reason.**
 
 <h3 align="left">Languages and Tools:</h3><br />
 
