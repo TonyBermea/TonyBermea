@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **Hello@tonybermea.dev**
 
-- ⚡ Fun fact: **It wasn't until I was 18 that I learned the word "replace" can also mean "put back in its place." I was so confused when I saw recycling instructions on the laundry detergent said "replace cap" and I was like, "with what?"**
+- ⚡ Fun fact: **I was today's years old when I learned that Moonbows exist.**
 
 <h3 align="left">Languages and Tools:</h3><br />
 
