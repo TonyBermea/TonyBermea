@@ -1,11 +1,3 @@
-<div align="center">
-  <a href="https://www.styled-components.com">
-    <img alt="styled-components" src="https://media.giphy.com/media/3knKct3fGqxhK/giphy.gif" height="150px" />
-  </a>
-</div>
-
-<br />
-
 <h1 align="center">Hello! I'm Tony 🤠</h1>
 <h3 align="center">A digital creator and front-end developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/TJaNEMTsdKaZ4sowzr/giphy.gif">
