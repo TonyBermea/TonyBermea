@@ -1,6 +1,6 @@
-<h1 align="center">Hello! I'm Tony 🤠</h1>
+<h1 align="center">Hello! I'm Tony 👁️</h1>
 <h3 align="center">A digital creator and front-end developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/TJaNEMTsdKaZ4sowzr/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/X4siH54rWRmfovt3wr/giphy.gif">
 
 - 🌱 I’m currently learning **Tone.js, a Web Audio framework for creating interactive music in the browser.**
 
