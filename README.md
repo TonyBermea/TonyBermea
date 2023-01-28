@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Tony 🪨</h1>
+<h1 align="center">Hello! I'm Tony 👾</h1>
 <h3 align="center">A digital creator and front-end developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/X4siH54rWRmfovt3wr/giphy.gif">
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **Hello@tonybermea.dev**
 
-- ⚡ Fun fact: **Once an employer asked me if he could call me "Ton" for no reason.**
+- ⚡ Fun fact: **Once an employer asked me if he could call me "Ton" for no reason. I said "K"**
 
 <h3 align="left">Languages and Tools:</h3><br />
 
