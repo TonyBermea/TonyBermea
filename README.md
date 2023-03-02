@@ -10,7 +10,6 @@
 
 - 📫 How to reach me: **Hello@tonybermea.dev**
 
-<h3 align="left">Languages and Tools:</h3><br />
 
 ## Languages
 
