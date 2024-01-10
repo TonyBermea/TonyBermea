@@ -18,6 +18,14 @@
 !["JavaScript"](https://img.shields.io/badge/-JavaScript-5C5655?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
 !["TypeScript"](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
+
+## Databases & Testing
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+!["MySQL"](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+!["MongoDB"](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+!["Jest"](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
+!["React Testing Library"](https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testing-library&logoColor=white&style=for-the-badge)
+
 ## Frameworks & Libraries
 
 !["ReactJS"](https://img.shields.io/badge/-ReactJS-524F4F?logo=react&logoColor=61DAFB&style=for-the-badge)
@@ -28,13 +36,6 @@
 !["Styled Components"](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 !["Tailwind"](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 !["Express.js"](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-
-## Databases & Testing
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-!["MySQL"](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-!["MongoDB"](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-!["Jest"](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
-!["React Testing Library"](https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testing-library&logoColor=white&style=for-the-badge)
 
 ## Tools/Platforms
 
