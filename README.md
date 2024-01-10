@@ -1,12 +1,10 @@
 <h1 align="center">Hello! I'm Tony 👾</h1>
-<h3 align="center">A Front-end Developer & Digital Creator.</h3>
+<h3 align="center">A Web Developer & Digital Creator.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/X4siH54rWRmfovt3wr/giphy.gif">
 
-- 🌱 I’m currently learning **Tone.js, a Web Audio framework for creating interactive music in the browser.**
+- 🌱 I’m developing a testing framework focused on eLearning.**
 
-- 👨‍💻 All of my projects are available at [https://www.tonybermea.dev/](https://www.tonybermea.dev/)
-
-- 💬 Ask me about **JavaScript, UX and UI design, architecture, movies, or skateboarding videos.**
+- 💬 Ask me about **JavaScript, test automation, design trends, video games, movies, or skateboarding.**
 
 - 📫 How to reach me: **Hello@tonybermea.dev**
 
