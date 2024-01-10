@@ -2,7 +2,7 @@
 <h3 align="center">A Web Developer & Digital Creator.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/X4siH54rWRmfovt3wr/giphy.gif">
 
-- 🌱 **I’m developing a testing framework focused on eLearning.**
+- 🌱 **I’m learning ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white).**
 
 - 💬 Ask me about **JavaScript, test automation, design trends, video games, movies, or skateboarding.**
 
@@ -47,6 +47,8 @@
 !["Illustrator"](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 !["Photoshop"](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
+## Gaming on
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 
 
