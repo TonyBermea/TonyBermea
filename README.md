@@ -17,8 +17,6 @@
 !["CSS3"](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 !["JavaScript"](https://img.shields.io/badge/-JavaScript-5C5655?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
 !["TypeScript"](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-!["PHP"](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-!["Python"](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=F4EE2A&style=for-the-badge)
 
 ## Frameworks & Libraries
 
