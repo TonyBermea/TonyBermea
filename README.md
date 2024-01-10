@@ -2,7 +2,7 @@
 <h3 align="center">A Web Developer & Digital Creator.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/X4siH54rWRmfovt3wr/giphy.gif">
 
-- 🌱 I’m developing a testing framework focused on eLearning.**
+- 🌱 **I’m developing a testing framework focused on eLearning.**
 
 - 💬 Ask me about **JavaScript, test automation, design trends, video games, movies, or skateboarding.**
 
