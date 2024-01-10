@@ -2,7 +2,9 @@
 <h3 align="center">A Web Developer & Digital Creator.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/X4siH54rWRmfovt3wr/giphy.gif">
 
-- 🌱 **I’m learning ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white).**
+## A creative quick learner with a desire to gain knowledge and experience in Automated testing and Game Development.
+
+- 🌱 **I’m currently learning game development in Unity.**
 
 - 💬 Ask me about **JavaScript, test automation, design trends, video games, movies, or skateboarding.**
 
