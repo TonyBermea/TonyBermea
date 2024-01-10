@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Tony 👾</h1>
-<h2 align="center">Developer & Digital Creator.</h2>
+<h2 align="center">Front-end Developer & Digital Designer</h2>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/X4siH54rWRmfovt3wr/giphy.gif">
 
 #### A creative quick learner with a desire to gain knowledge and experience in Automated Testing and Game Development.
