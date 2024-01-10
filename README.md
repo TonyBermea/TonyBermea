@@ -1,8 +1,8 @@
 <h1 align="center">Hello! I'm Tony 👾</h1>
-<h3 align="center">A Web Developer & Digital Creator.</h3>
+<h2 align="center">A Web Developer & Digital Creator.</h2>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/X4siH54rWRmfovt3wr/giphy.gif">
 
-## A creative quick learner with a desire to gain knowledge and experience in Automated testing and Game Development.
+#### A creative quick learner with a desire to gain knowledge and experience in Automated testing and Game Development.
 
 - 🌱 **I’m currently learning game development in Unity.**
 
