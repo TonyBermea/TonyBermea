@@ -30,6 +30,7 @@
 !["Express.js"](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 
 ## Databases & Testing
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 !["MySQL"](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 !["MongoDB"](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 !["Jest"](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
